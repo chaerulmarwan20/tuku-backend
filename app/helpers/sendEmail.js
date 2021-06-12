@@ -32,7 +32,7 @@ const send = (destination, token, type) => {
             In order for your email to be used for logging in, we need to verify your email address. Please use the link below to confirm your email address and complete the process.
             <br/>
             <br/>
-            Click this link to verify your account : <a href="${link}/register/?email=${destination}&token=${token}">Verirfy Now</a>
+            Click this link to verify your account : <a href="${link}/register/?email=${destination}&token=${token}">Verify Now</a>
             <br/>
             <br/>
             Thank you,
